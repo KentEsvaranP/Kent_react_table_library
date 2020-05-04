@@ -22,7 +22,7 @@ npm run start:dev
 npm run start:prod  (Optional for production build)
 ````
 
-# 4) Project is running at below URL in your local machine. Basically this application impleted with "React Library" and converted into "non-React Library"
+# 4) Project is running at below URL in your local machine. Basically this application implemented with "React Library" and converted into "non-React Library"
 
 ````
 http://localhost:8080/
@@ -38,8 +38,7 @@ https://54tfy.csb.app/
 # 6) If you want to deploy the library code with other app lication. Please take the code from "/dist" folder.
 
 # 7) Basically this app for "Data Table" with few additional feature like sort & filter. 
-     The same sort & filter (search) option you can configure whether the feautre will be enable or not through configuring
-     the attibutes in index.html
+     The same sort & filter (search) option you can configure whether the feature will be enable or not through configuring the attributes in index.html
  
 # 8) Finally as a library we can plug it everywhere with bundled file (/dist) and make some changes from from index.html file if needed. 
      Hence, our "Data Table Library" ready with our basics expectation with some configurations.
