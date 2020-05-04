@@ -14,7 +14,7 @@ Execute the following command in order to download all the required project depe
 npm install
 ````
 
-# 3) Running the Project
+# 3) Running the Project, before run the below comment please make sure .babelrc, .eslintrc and .prettierrc file are created on you application root path. The ".babelrc" file is more important to create on your app root path.
 
 ````
 npm run start:dev  
@@ -28,7 +28,7 @@ npm run start:prod  (Optional for production build)
 http://localhost:8080/
 
 ````
-# 5) Also thia app will running with global access with below URL.
+# 5) Also this app will running with global access with below URL.
 
 ````
 https://54tfy.csb.app/
